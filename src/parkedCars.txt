@@ -1,0 +1,4 @@
+west,1,Bugatti,Chiron,Red,HYP1
+west,2,Koenigsegg,Agera,Silver,HYP2
+east,1,Lamborghini,Aventador,Orange,HYP3
+east,2,Porsche,918 Spyder,Yellow,HYP4
