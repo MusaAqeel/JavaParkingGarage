@@ -1,6 +1,5 @@
 # Parking Lot Project
-
-This project is a simulation of a parking lot where users can enter their car information and park it in either the east or west entrance. Each entrance has four parking spots for a total of eight spots.
+This parking garage management system is built using Java and it allows users to enter and exit the parking garage with their own cars. The cars are then stored in a text file and can be viewed, searched and sorted. The system has two entrances (West and East) with a total of 8 parking spots and implements user input to park and exit cars. The project utilizes classes, interfaces, and arrays to manage the parking spots, as well as file reading and writing. Additionally, feature such as sorting the cars by make, viewing the empty spots and occupied spots are also available.
 
 ## Getting Started
 
